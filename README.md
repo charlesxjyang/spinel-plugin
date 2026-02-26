@@ -5,7 +5,7 @@ A materials science toolkit for Claude Code. Install once, get access to materia
 ## Quick Start
 
 ```bash
-/plugin marketplace add renaissance-philanthropy/spinel
+/plugin marketplace add charlesxjyang/spinel-plugin
 /plugin install spinel
 ```
 

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "spinel-plugin",
+  "version": "0.1.0",
+  "description": "Materials science toolkit for Claude Code — crystal structures, phase diagrams, electronic structure, diffraction, battery analysis, and more",
+  "owner": {
+    "name": "Charles Yang"
+  },
+  "plugins": [
+    {
+      "name": "spinel",
+      "description": "Materials science toolkit with skills for crystal structure analysis, phase diagrams, electronic structure, XRD, instrument data parsing, materials screening, and battery analysis",
+      "version": "0.1.0",
+      "source": ".",
+      "repository": "https://github.com/charlesxjyang/spinel-plugin",
+      "license": "MIT",
+      "keywords": ["materials-science", "chemistry", "pymatgen", "crystallography", "battery", "electrochemistry", "DFT"],
+      "category": "development"
+    }
+  ]
+}
